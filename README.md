@@ -1,5 +1,6 @@
 Evaluación Final
 Módulo 2: SQL+
+
 Alumna: Zara Valentinova
 Email: zaravalentinova@yahoo.es
 
@@ -28,4 +29,5 @@ Consultas básicas: Ejercicios 1–9.
 Consultas con múltiples tablas y joins: Ejercicios 10–21.
 
 Consultas con subconsultas y CTEs: Ejercicios 22–24.
+
 
