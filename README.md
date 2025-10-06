@@ -1,5 +1,7 @@
 Evaluación Final
-Módulo 2: SQL
+Módulo 2: SQL+
+Alumna: Zara Valentinova
+Email: zaravalentinova@yahoo.es
 
 Este repositorio contiene los ejercicios correspondientes a la evaluación final del Módulo 2 (SQL) del Bootcamp de Data Analytics de ADALAB (Promoción 56), utilizando como base de datos Sakila. Sakila simula una tienda de alquiler de películas e incluye tablas como film, actor, customer, rental, category, entre otras.
 
@@ -26,3 +28,4 @@ Consultas básicas: Ejercicios 1–9.
 Consultas con múltiples tablas y joins: Ejercicios 10–21.
 
 Consultas con subconsultas y CTEs: Ejercicios 22–24.
+
